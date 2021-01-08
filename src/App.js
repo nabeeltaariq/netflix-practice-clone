@@ -1,13 +1,14 @@
-import './App.css'
 import Row from './Row'
 import React from 'react'
 import requests from './requests'
 import Banner from './Banner'
-
+import Nav from './Nav'
+import './App.css'
 function App() {
   return (
-    <div className='App'>
-      <Banner></Banner>
+    <div className='app'>
+      <Nav></Nav>
+      <Banner />
       <Row
         title='NETFLIX ORIGINALS'
         isLargeRow
