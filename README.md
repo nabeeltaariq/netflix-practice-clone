@@ -2,7 +2,7 @@ This poroject is built for learnin purposes
 
 [Demo](https://netflix-clone-79bd7.web.app/)
 
-![](Capture.PNG)
+![](Capture1.PNG)
 ![](Capture2.PNG)
 ![](Capture3.PNG)
 
