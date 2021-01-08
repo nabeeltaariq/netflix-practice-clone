@@ -1,3 +1,12 @@
+This poroject is built for learnin purposes 
+
+[Demo](https://netflix-clone-79bd7.web.app/)
+
+![](Capture.PNG)
+![](Capture2.PNG)
+![](Capture3.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
